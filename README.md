@@ -1,38 +1,17 @@
-🎨 Art GUI
+# 🎨 Art GUI  
 
-My web development project built with HTML & CSS that explores the concept of art and its seven forms.
-This project demonstrates key web development skills including:
+A clean and responsive **HTML + CSS** web page exploring the concept of **art** and its **seven forms**.  
 
-Semantic HTML structure
+## ✨ Features  
+- Minimal, modern layout  
+- Responsive design for desktop and mobile  
+- Image gallery showcasing artworks  
+- Section highlighting the **7 Types of Art**  
+- Footer with About, Company, and Support links  
 
-CSS styling and layouts
-
-Responsive design principles
-
-Typography using Google Fonts
-
-Image galleries and layout handling
-
-✨ Features
-
-Modern, minimal design
-
-Responsive layout for desktop & mobile
-
-Gallery of artworks with flexible images
-
-Informative section on 7 types of art
-
-Styled footer with company info
-
-📘 What I Learned
-
-Structuring content with HTML5
-
-Styling with CSS box model
-
-Flexbox for layouts
-
-Media queries for responsiveness
-
-Organizing multi-section webpages
+## 📘 What I Learned  
+- Semantic **HTML5** structure  
+- **CSS box model** and spacing  
+- Layouts using **Flexbox**  
+- **Media queries** for responsiveness  
+- Organizing multi-section web pages  
